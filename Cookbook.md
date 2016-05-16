@@ -60,9 +60,10 @@ tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
 
-
-
 The description of the analysis for this assignment is the following:
+=====================================================================
+
+
 
 The data was analysed by only selecting the measures related to the mean and std. The names for the columns and activities were simplified. Following, the mean for each subject in each of the 6 activities (walking, walking up, walking down, sitting, standing, lying) in the selected measures was calculated. The new data set contains the means for each subject and activity for the following selected measures:
 
